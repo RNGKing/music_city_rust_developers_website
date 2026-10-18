@@ -9,8 +9,7 @@
      You need to use the paginator object -->
      {% for page in section.pages %}
      <li>
-        <h4>{{page.date}}</h4>
-        <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+        <a href="{{ page.path | safe }}">{{ page.title }}</a>
     </li>
      {% endfor %}
 </ul>

@@ -9,7 +9,7 @@ author = "Patrick Aaron Phillips"
 ## What is this?
 
 We finally did it. We have an official website that we can use to host articles and contributions from the Nashville Rust developer
-community. I'd like to than Steven from the BDK project for pushing for this to happen and I'd like to thank the greater Nashville developer
+community. I'd like to thank Steven from the BDK project for pushing for this to happen and I'd like to thank the greater Nashville developer
 scene in general for being a great network of professionals. The site will likely look kind of rough at first because I'm using a barebones 
 pre-generated CSS package like Skeleton or MVP.css. I'll slowly make the site look better and revamp it to be more ergonomic. 
 
