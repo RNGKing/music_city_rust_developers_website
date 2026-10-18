@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+    <head>
+        <meta charset="utf-8">
+        <title>My Blog</title>
+        <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+            >
+        <script src="https://cdn.jsdelivr.net/npm/htmx.org@2.0.11/dist/htmx.min.js" 
+        integrity="sha384-2OatzQy1H+Zd/IIrjr1TcuDGqLXeHhbooAyJY1KdQMKnr4LZ22k31GBLdYKHmVjg"
+        crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <div class="container">
+            <div class="container">
+                Music City Rust Developers
+            </div>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="/">Home</a>
+                    </li>
+                    <li>
+                        <a href="/blog">Blog</a>
+                    </li>
+                    <li>
+                        <a href="/about/about">About Us</a>
+                    </li>
+                    <li>
+                        <a href="/contactus/contact">Contact Us</a>
+                    </li>
+                </ul>
+            </nav>
+            
+        </div>
+        
+        <section class="section">
+            <div class="container">
+                {% block content %} {% endblock content %}
+            </div>
+        </section>
+        <section class="section">
+            <div class="container">
+                Created with &#129655; using <a href="https://www.getzola.org/">Zola</a> 
+            </div>
+        </section>
+    </body>
+</html>
