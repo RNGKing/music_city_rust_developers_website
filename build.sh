@@ -10,4 +10,4 @@ main() {
   ./zola build
 }
 
-set -euo pipefall
+set -euo pipefail
