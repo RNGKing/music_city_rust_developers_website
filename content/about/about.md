@@ -10,7 +10,7 @@ business, hobby and or educational solutions using the [Rust Programming languag
 
 ## What is Rust?
 
-Rust is a strongly typed programming langauge that places strong guard rails on what code is considered valid in order to create an easier to understand, easiers to maintain and longer lasting software that can persist longi nto the future of compute technology. Rust is the langauge you want backing your legacy projects 20 years from now. 
+Rust is a strongly typed programming langauge that places strong guard rails on what code is considered valid in order to create an easier to understand, easier to maintain and longer lasting software that can persist long into the future of compute technology. Rust is the langauge you want backing your legacy projects 20 years from now. 
 
 ## How Can I Learn More About Rust?
 

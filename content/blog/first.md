@@ -14,7 +14,7 @@ scene in general for being a great network of professionals. The site will likel
 pre-generated CSS package like Skeleton or MVP.css. I'll slowly make the site look better and revamp it to be more ergonomic. 
 
 To explain the site a bit, I'm using a static-site generator called Zola, hooked into github and Cloudflare Workers that serves the site 
-and updates automatically. I might add some interactivity via HTMX or Datastar if the need arrises but I figure that the needs of this website
+and updates automatically. I might add some interactivity via HTMX or Datastar if the need arises but I figure that the needs of this website
 will need to be explored as we move our way into the future. 
 
 ## The Plan
